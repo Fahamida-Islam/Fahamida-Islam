@@ -1,5 +1,6 @@
-### Hi there 👋, My name is Fahamida
-#### I am web developer
+### Hi there 👋, 
+#### My name is Fahamida
+##### I am a web developer
 ![I am web developer](https://media-exp1.licdn.com/dms/image/C4D16AQHlWcHxT1oqVg/profile-displaybackgroundimage-shrink_200_800/0/1645227135425?e=1651104000&v=beta&t=lZF8sml-MNJkjRBZ8LmVvZuj8FS5KTVM57OKVojNap8)
 
 I have completed my Masters in Computing. My programming skills include .net, c#, c++, sql, Java, HTML, CSS, and JavaScript.
